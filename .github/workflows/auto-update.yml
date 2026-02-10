@@ -2,7 +2,7 @@ name: Auto Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 10 * * *'  # 每天北京时间 18:00（因为 GitHub Actions 用 UTC，10 UTC = 18 CST）
+    - cron: '0 10 * * *'
 
 env:
   TZ: Asia/Shanghai
