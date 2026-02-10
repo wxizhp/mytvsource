@@ -23,7 +23,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
-
+      - name: Set Time Zone
+        run: |
+          sudo timedatectl set-timezone $TZ
       - name: Run script
         run: python ./main/main.py
 
