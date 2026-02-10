@@ -46,10 +46,17 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git commit -m "Update content - $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
-          git push origin ${{ github.ref_name }}
-          echo "Changes pushed successfully."
-          exit 0
+            git add .
+            if ! git diff --cached --quiet; then
+            echo "Changes detected. Proceeding to commit."
+            else
+                echo "No changes. Skipping commit."
+                exit 0
+            fi
+            git commit -m "Update content - $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git push origin ${{ github.ref_name }}
+            echo "Changes pushed successfully."
+            exit 0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TZ: asia/shanghai
+          TZ: Asia/Shanghai
