@@ -8,16 +8,16 @@ zb_txt_list = ["zb_list.txt", "other.txt"]
 
 def main():
     get_zb_urls_list()
+    print("获取直播源完成，开始合并")
     merge_dict = merge_zb_txt(zb_txt_list)
+    print("合并完成，开始格式化")
     merge_list = []
     for k, v in merge_dict.items():
         merge_list.append(k)
         merge_list.extend(v)
-        merge_list.append('')
-
-        
+        merge_list.append('')       
     format_iptv(merge_list)
-    print("done")
+    print("格式化完成")
 
 
 if __name__ == "__main__":

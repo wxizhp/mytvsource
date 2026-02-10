@@ -106,7 +106,7 @@ def get_zb_urls_list():
             full_list = get_zb_urls(urls,proxy_get_url,get_proxy_list)
             with open('zb_list.txt', 'w', encoding='utf-8') as f:
                 f.write('\n'.join(full_list))
-
+            print('zb_list.txt保存成功')
             return full_list
             
             

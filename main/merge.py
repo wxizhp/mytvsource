@@ -48,6 +48,7 @@ def merge_zb_txt(zb_txt_list):
                         continue
                     has_add_url.append(tv_url)
                     merged_list[tv_type].append(line.strip())
+    print(f'合并完成，类型数量：{len(merged_list.keys())}，总直播源数量：{len(has_add_url)}')
     return merged_list
                 
 

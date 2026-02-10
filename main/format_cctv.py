@@ -98,6 +98,7 @@ def format_iptv(zb_urls_list:list):
     # new_zb_urls.sort(key = lambda x:x.split(',')[0] if 'CCTV' in x else x)
     with open('tv.txt', 'w', encoding='utf8') as fw:
         fw.write('\n'.join(new_zb_urls))
+    print('格式化完成，已保存为tv.txt')
             
 if __name__ == '__main__':
     zb_txt_list = ["zb_list.txt", "other.txt"]
