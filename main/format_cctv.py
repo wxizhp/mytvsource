@@ -110,4 +110,4 @@ if __name__ == '__main__':
 
         
     format_iptv(merge_list)
-    print("done")
+    # print("done")
