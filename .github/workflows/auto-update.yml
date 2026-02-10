@@ -34,6 +34,16 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
+      - name: Check for changes before pushing
+        run: |
+          git add .
+          if ! git diff --cached --quiet; then
+            echo "Changes detected. Proceeding to commit."
+          else
+            echo "No changes. Skipping commit."
+            exit 0
+          fi
+
       - name: Commit and push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
