@@ -40,32 +40,41 @@ def get_zb_urls(urls,proxyurl,get_proxy_list):
     for url in urls:
         res_text = ''
         proxy_url = ''
-        for proxy in proxy_list:
-            if proxy_used:
-                proxy_url = proxy_used + '/' + url
-                res = get_response(proxy_url)
-                if not res:
-                    proxy_used = ''
-                    continue
-                res_text = res.text
-                if '<html' in res_text:
-                    proxy_used = ''
-                    res_text = ''
-                    continue
-                break
-            else:
-  
-                
-                proxy_url = proxy + '/' + url
-                res = get_response(proxy_url)
-                if not res:
-                    continue
-                res_text = res.text
-                if '<html' in res_text:
-                    res_text = ''
-                    continue
-                proxy_used = proxy        
-                break
+        if 'git' not in url:
+            res = get_response(url)
+            if not res:
+                continue
+            res_text = res.text
+            if '<html' in res_text:
+                res_text = ''
+                continue
+        else:
+            for proxy in proxy_list:
+                if proxy_used:
+                    proxy_url = proxy_used + '/' + url
+                    res = get_response(proxy_url)
+                    if not res:
+                        proxy_used = ''
+                        continue
+                    res_text = res.text
+                    if '<html' in res_text:
+                        proxy_used = ''
+                        res_text = ''
+                        continue
+                    break
+                else:
+    
+                    
+                    proxy_url = proxy + '/' + url
+                    res = get_response(proxy_url)
+                    if not res:
+                        continue
+                    res_text = res.text
+                    if '<html' in res_text:
+                        res_text = ''
+                        continue
+                    proxy_used = proxy        
+                    break
                 
                 
         if not res_text:
