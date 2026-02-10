@@ -13,8 +13,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # 👈 改为 GITHUB_TOKEN
 
       - name: Setup Python
         uses: actions/setup-python@v5  # 👈 升级到 v5（v2 已过时）
@@ -50,8 +48,5 @@ jobs:
           git push origin ${{ github.ref_name }}
           echo "Changes pushed successfully."
           exit 0
-        # uses: ad-m/github-push-action@v0.6.0
-        # with:
-        #   github_token: ${{ secrets.GITHUB_TOKEN }}  # 👈 关键：使用 GITHUB_TOKEN
-        #   branch: ${{ github.ref_name }}
-        #   force: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
