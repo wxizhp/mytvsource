@@ -217,3 +217,4 @@ __marimo__/
 ./main/__pycache__/
 *pycache__/
 .main/__pycache__/
+*.html
