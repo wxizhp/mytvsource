@@ -218,3 +218,7 @@ __marimo__/
 *pycache__/
 .main/__pycache__/
 *.html
+
+
+tv*txt
+zb*txt
