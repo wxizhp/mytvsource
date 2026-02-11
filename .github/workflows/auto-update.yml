@@ -41,7 +41,7 @@ jobs:
                 echo "No changes. Skipping commit."
                 exit 0
             fi
-            git commit -m "Update content - $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git commit -m "Update content - $(TZ=Asia/Shanghai date +"%Y-%m-%dT%H:%M:%SZ")"
             git push origin ${{ github.ref_name }}
             echo "Changes pushed successfully."
             exit 0
