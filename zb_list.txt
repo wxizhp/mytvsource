@@ -26,9 +26,9 @@ CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
 CCTV5,http://112.46.85.60:8009/hls/503/index.m3u8
 CCTV5+,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
 CCTV5+,http://120.238.94.10:9901/tsfile/live/1023_1.m3u8
+CCTV5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 CCTV5+,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
 CCTV5+,http://182.150.23.74:808/hls/16/index.m3u8
-CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV6,http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
 CCTV6,http://183.11.239.36:808/hls/94/index.m3u8
 CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
@@ -99,9 +99,11 @@ CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV怀旧剧场,http://61.184.46.85:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
 CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云足球,http://27.41.245.32:801/hls/906/index.m3u8
 CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
@@ -1867,6 +1869,7 @@ CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911517877_-1757643052/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=3&RTS=1658854720&from=1&hms_devid=2113&vqe=3
 CCTV-16,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
+CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV1综合,http://tvbox6.icu/tv/migu.php?id=cctv1$LR•17•IPV4『线路1』
 CCTV1综合,http://58.57.40.22:9901/tsfile/live/0001_1.m3u8$LR•17•IPV4『线路2』
 CCTV1综合,http://play.kankanlive.com/live/1661761962676984.m3u8$LR•17•IPV4『线路3』
@@ -2250,7 +2253,6 @@ cctv10MCP,https://live.ottiptv.cc/mcp/cctv10.m3u8?userid=5559462299&sign=c468b1b
 cctv15MCP,https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=5559462299&sign=2843d5aef3ec62add8f4dbbc553c02bd3b9693bb09a507da3b2ebde10b0d12470a818bff3899243707d2f0653a39498739cfa561be1aecde3358a9611ba30cc6fecfc17922a89a5169c92e42c085&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 cctv13MCP,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=5559462299&sign=50ef89ca1ec8dcecfc4e0153074e7b9a6113e36cb760b2b007f076633bb8794c46fa857ac6407c6c50cfe2ab7c5d8c6f87af2793efe13ada9c572878b5fb8c6c168ae504f3743e920d40354876cb&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 cctv2MCP,https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=5559462299&sign=a20f3fc3de200d72d3d92ebb32448b50d69c41fd59d6fa19380ac6507a1fe73db73b969725b89e938c1c77c60bf45078bf89d32b77c282b504e260dc40a2b56c376d2619e014c96c736186bade&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CCTV5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
