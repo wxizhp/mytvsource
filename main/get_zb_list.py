@@ -52,7 +52,8 @@ def get_zb_urls(urls,proxyurl,get_proxy_list):
         else:
             proxy_list.append('')  # 添加一个空字符串，表示直接访问
             if proxy_used:
-                proxy_list.append(proxy_used)
+                if proxy_used not in proxy_list:
+                    proxy_list.append(proxy_used)  # 将之前成功的代理添加回列表
             proxy_list.reverse()  # 反转列表，优先使用之前成功的代理
             for proxy in proxy_list:
                 if proxy:  
