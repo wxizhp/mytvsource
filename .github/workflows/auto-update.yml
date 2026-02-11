@@ -4,12 +4,12 @@ on:
   schedule:
     - cron: '0 */4 * * *'
 
-env:
-  TZ: Asia/Shanghai
 
 jobs:
   Update:
     runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -24,18 +24,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
           pip install lxml
-      - name: Set Time Zone
-        env:
-          TZ: Asia/Shanghai
-        run: |
-          sudo timedatectl set-timezone $TZ
+    
       - name: Run script
         run: python ./main/main.py
 
       - name: Commit and push changes
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            TZ: Asia/Shanghai
         run: |
             git config --global user.name 'github-actions[bot]'
             git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -46,7 +41,7 @@ jobs:
                 echo "No changes. Skipping commit."
                 exit 0
             fi
-            git commit -m "Update content - $(TZ=Asia/Shanghai date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git commit -m "Update content - $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
             git push origin ${{ github.ref_name }}
             echo "Changes pushed successfully."
             exit 0
