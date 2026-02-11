@@ -38,6 +38,7 @@ def get_zb_urls(urls,proxyurl,get_proxy_list):
     proxy_list = get_proxy_list(proxyurl)
     proxy_used = ''
     for url in urls:
+        
         res_text = ''
         proxy_url = ''
         if 'git' not in url:
@@ -49,32 +50,24 @@ def get_zb_urls(urls,proxyurl,get_proxy_list):
                 res_text = ''
                 continue
         else:
+            proxy_list.append('')  # 添加一个空字符串，表示直接访问
+            if proxy_used:
+                proxy_list.append(proxy_used)
+            proxy_list.reverse()  # 反转列表，优先使用之前成功的代理
             for proxy in proxy_list:
-                if proxy_used:
-                    proxy_url = proxy_used + '/' + url
-                    res = get_response(proxy_url)
-                    if not res:
-                        proxy_used = ''
-                        continue
-                    res_text = res.text
-                    if '<html' in res_text:
-                        proxy_used = ''
-                        res_text = ''
-                        continue
-                    break
-                else:
-    
-                    
+                if proxy:  
                     proxy_url = proxy + '/' + url
-                    res = get_response(proxy_url)
-                    if not res:
-                        continue
-                    res_text = res.text
-                    if '<html' in res_text:
-                        res_text = ''
-                        continue
-                    proxy_used = proxy        
-                    break
+                else:
+                    proxy_url = url                  
+                res = get_response(proxy_url)
+                if not res:
+                    continue
+                res_text = res.text
+                if '<html' in res_text:
+                    res_text = ''
+                    continue
+                proxy_used = proxy        
+                break
                 
                 
         if not res_text:
