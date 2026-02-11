@@ -1,5 +1,6 @@
 import re
 from urlsm import urls,proxy_get_url
+from collections import deque
 # from format_cctv import format_iptv
 import requests
 
@@ -16,8 +17,8 @@ def get_response(url, timeout=10):
         print(e)
         return None
 
-def get_proxy_list(proxyurl)->list:
-    proxy_list = []
+def get_proxy_list(proxyurl)->deque:
+    proxy_list = deque()
     res = get_response(proxyurl)
     if not res:
         return proxy_list
@@ -31,11 +32,13 @@ def get_proxy_list(proxyurl)->list:
 
 
 
-def get_zb_urls(urls,proxyurl,get_proxy_list):
+def get_zb_urls(urls,proxyurl:str,get_proxy_list):
     first_line = ['CCTV, #genre#']
     zb_urls_list = []
     has_add_url = []
-    proxy_list = get_proxy_list(proxyurl)
+    proxy_list: deque = get_proxy_list(proxyurl)
+    if '' not in proxy_list:
+        proxy_list.append('')  # 添加一个空字符串，表示直接访问
     proxy_used = ''
     for url in urls:
         
@@ -49,12 +52,9 @@ def get_zb_urls(urls,proxyurl,get_proxy_list):
             if '<html' in res_text:
                 res_text = ''
                 continue
-        else:
-            proxy_list.append('')  # 添加一个空字符串，表示直接访问
-            if proxy_used:
-                if proxy_used not in proxy_list:
-                    proxy_list.append(proxy_used)  # 将之前成功的代理添加回列表
-            proxy_list.reverse()  # 反转列表，优先使用之前成功的代理
+        else:   
+            if proxy_used not in proxy_list:
+                proxy_list.appendleft(proxy_used)  # 将之前成功的代理添加回列表
             for proxy in proxy_list:
                 if proxy:  
                     proxy_url = proxy + '/' + url
