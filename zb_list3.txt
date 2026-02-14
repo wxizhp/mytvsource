@@ -1,0 +1,277 @@
+CCTV,#genre#
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
