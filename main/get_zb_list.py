@@ -49,7 +49,7 @@ def get_zb_urls(urls,proxyurl:str,get_proxy_list):
             if not res:
                 continue
             res_text = res.text
-            if '<html' in res_text:
+            if '<html' in res_text or len(res_text) < 20:
                 res_text = ''
                 continue
         else:   
@@ -64,14 +64,14 @@ def get_zb_urls(urls,proxyurl:str,get_proxy_list):
                 if not res:
                     continue
                 res_text = res.text
-                if '<html' in res_text:
+                if '<html' in res_text or len(res_text) < 20:
                     res_text = ''
                     continue
                 proxy_used = proxy        
                 break
                 
                 
-        if not res_text:
+        if not res_text or len(res_text) < 20:
             continue
         print(f'开始获取:{proxy_url}')
         
@@ -104,17 +104,15 @@ def get_zb_urls(urls,proxyurl:str,get_proxy_list):
 
 
 def get_zb_urls_list():
-    for i in range(5):
-        try:
-            full_list = get_zb_urls(urls,proxy_get_url,get_proxy_list)
-            with open('zb_list.txt', 'w', encoding='utf-8') as f:
-                f.write('\n'.join(full_list))
-            print('zb_list.txt保存成功')
-            return full_list
+    
+    full_list = get_zb_urls(urls,proxy_get_url,get_proxy_list)
+    with open('zb_list.txt', 'w', encoding='utf-8') as f:
+        f.write('\n'.join(full_list))
+    print('zb_list.txt保存成功')
+    return full_list
             
             
-        except Exception as e:
-            print(e)
+        
 
 
 if __name__ == '__main__':

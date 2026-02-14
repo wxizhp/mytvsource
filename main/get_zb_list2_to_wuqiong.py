@@ -65,23 +65,48 @@ def get_zb_list3(url,txt_name):
     print(f'直播源获取完成，已保存为{txt_name}')
 
 
-def get_zb_list4(url,txt_name):
+def get_zb_list4(urls,txt_name):
     proxy_urls = get_proxy_list(proxyurl=proxy_get_url)
-    for proxy in proxy_urls:
-        proxy_url = proxy + '/' + url
-        response = get_response(proxy_url)
-        if response is None:
-            print(f'请求失败，尝试下一个代理: {proxy}')
+    lines = []
+    proxy_used = ''
+    for url in urls:
+        if not url.strip():
             continue
-        m3u8_text = response.text
-        if '<html' in m3u8_text or len(m3u8_text) < 20:
-            print(f'响应内容异常，尝试下一个代理: {proxy}')
-            continue
+        if proxy_used:
+            proxy_url = proxy_used + '/' + url
+            response = get_response(proxy_url)
+            if response is not None:
+                m3u8_text = response.text
+                if '<html' in m3u8_text or len(m3u8_text) < 20:
+                    print(f'响应内容异常，尝试下一个代理: {proxy_used}')
+                    proxy_used = ''
+                else:
+                    lines.extend(m3u8_text.splitlines())
+                    continue
+            else:
+                print(f'请求失败，尝试下一个代理: {proxy_used}')
+                proxy_used = ''
+        
+        for proxy in proxy_urls:
+            proxy_url = proxy + '/' + url
+            response = get_response(proxy_url)
+            if response is None:
+                print(f'请求失败，尝试下一个代理: {proxy}')
+                proxy_used = ''
+                continue
+            m3u8_text = response.text
+            if '<html' in m3u8_text or len(m3u8_text) < 20:
+                print(f'响应内容异常，尝试下一个代理: {proxy}')
+                proxy_used = ''
+                continue
 
-        lines = m3u8_text.splitlines()
+            lines_ = m3u8_text.splitlines()
+            lines.extend(lines_)
+            proxy_used = proxy
+            break
+    if lines:
         m3u8_to_txt(lines, txt_name)
         print(f'直播源获取完成，已保存为{txt_name}')
-        break
 
 
 
