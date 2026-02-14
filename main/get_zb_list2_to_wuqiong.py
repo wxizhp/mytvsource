@@ -2,7 +2,24 @@ import os
 import requests
 from lxml import etree
 from m3u8_to_txt import m3u8_to_txt
+from collections import deque
+from urlsm import proxy_get_url
 
+
+
+
+def get_proxy_list(proxyurl)->deque:
+    proxy_list = deque()
+    res = get_response(proxyurl)
+    if not res:
+        return proxy_list
+    res_json = res.json()
+    data = res_json.get('data', [])
+    for item in data:
+        url = item.get('url')
+        if url:
+            proxy_list.append(url)
+    return proxy_list
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0'
@@ -48,6 +65,24 @@ def get_zb_list3(url,txt_name):
     print(f'直播源获取完成，已保存为{txt_name}')
 
 
+def get_zb_list4(url,txt_name):
+    proxy_urls = get_proxy_list(proxyurl=proxy_get_url)
+    for proxy in proxy_urls:
+        proxy_url = proxy + '/' + url
+        response = get_response(proxy_url)
+        if response is None:
+            print(f'请求失败，尝试下一个代理: {proxy}')
+            continue
+        m3u8_text = response.text
+        if '<html' in m3u8_text:
+            print(f'响应内容异常，尝试下一个代理: {proxy}')
+            continue
+        
+        lines = m3u8_text.splitlines()
+        m3u8_to_txt(lines, txt_name)
+        print(f'直播源获取完成，已保存为{txt_name}')
+        break
+
 
 
         
@@ -57,11 +92,16 @@ if __name__ == '__main__':
 
     url3 = 'https://ip-tv.app/China'
 
+
+    url4 = "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn_cctv.m3u"
+
    
 
     
 
-    get_zb_list2(url2, 'zb_list2.txt')
-    get_zb_list3(url3, 'zb_list3.txt')
+    # get_zb_list2(url2, 'zb_list2.txt')
+    # get_zb_list3(url3, 'zb_list3.txt')
+
+    get_zb_list4(url4, 'zb_list4.txt')
     
    
