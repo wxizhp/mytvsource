@@ -73,7 +73,7 @@ def get_zb_urls(urls,proxyurl:str,get_proxy_list):
                 
         if not res_text or len(res_text) < 20:
             continue
-        print(f'开始获取:{proxy_url}')
+        
         
         for line in res_text.splitlines():
             if not line.strip() or '#genre#' in line:
@@ -88,6 +88,7 @@ def get_zb_urls(urls,proxyurl:str,get_proxy_list):
             has_add_url.append(tv_url)
             if re.findall(r'CCTV', tv_name, re.IGNORECASE):
                 zb_urls_list.append(line)
+        print(f'获取成功:{proxy_url}')
             
     if not zb_urls_list:
         raise Exception('没有获取到直播源')
