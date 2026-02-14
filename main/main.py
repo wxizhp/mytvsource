@@ -4,7 +4,7 @@ from format_cctv import format_iptv
 from main.get_zb_list2_to_wuqiong import get_zb_list2, get_zb_list3
 
 
-zb_txt_list = ["zb_list.txt", "other.txt", "zb_list2.txt", "zb_list3.txt", "zb_list4.txt"]
+zb_txt_list = ["zb_list.txt", "other.txt", "zb_list2.txt", "zb_list3.txt", "zb_list4.txt", "zb_list4_1.txt"]
 
 
 def main():

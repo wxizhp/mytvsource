@@ -74,10 +74,10 @@ def get_zb_list4(url,txt_name):
             print(f'请求失败，尝试下一个代理: {proxy}')
             continue
         m3u8_text = response.text
-        if '<html' in m3u8_text:
+        if '<html' in m3u8_text or len(m3u8_text) < 20:
             print(f'响应内容异常，尝试下一个代理: {proxy}')
             continue
-        
+
         lines = m3u8_text.splitlines()
         m3u8_to_txt(lines, txt_name)
         print(f'直播源获取完成，已保存为{txt_name}')
@@ -95,6 +95,8 @@ if __name__ == '__main__':
 
     url4 = "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn_cctv.m3u"
 
+    url4_1 = "https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u"
+
    
 
     
@@ -102,6 +104,7 @@ if __name__ == '__main__':
     # get_zb_list2(url2, 'zb_list2.txt')
     # get_zb_list3(url3, 'zb_list3.txt')
 
-    get_zb_list4(url4, 'zb_list4.txt')
+    # get_zb_list4(url4, 'zb_list4.txt')
+    get_zb_list4(url4_1, 'zb_list4_1.txt')
     
    
