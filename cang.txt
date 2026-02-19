@@ -3,25 +3,25 @@
 
         {
             "sourceName":"饭太硬",
-            "sourceUrl":"http://fty.xxooo.cf/tv/",
+            "sourceUrl":"http://fty.xxooo.cf/tv/"
         },
         {
             "sourceName":"小米",
-            "sourceUrl":"http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
+            "sourceUrl":"http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json"
         },
         {
             "sourceName":"王小二",
-            "sourceUrl":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "sourceUrl":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
 
-        }，
+        },
         {
             "sourceName":"巧技",
-            "sourceUrl":"http://cdn.qiaoji8.com/tvbox.json",
+            "sourceUrl":"http://cdn.qiaoji8.com/tvbox.json"
 
-        }，
+        },
         {
             "sourceName":"南风",
-            "sourceUrl":"https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+            "sourceUrl":"https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"
 
 
         }
