@@ -1,9 +1,5 @@
 {
     "storeHouse":[
-        {
-            "sourceName":"本地",
-            "sourceUrl":"clan://localhost/download/tv/cang.txt",
-        },
 
         {
             "sourceName":"饭太硬",
