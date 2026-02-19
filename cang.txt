@@ -19,7 +19,16 @@
         {
             "name":"南风",
             "url":"https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"
+        },
+        {
+            "name":"FengMi",
+            "url":"https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json"
+        },
+        {
+            "name":"健康源",
+            "url":"https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
         }
+    
     ]
 }
 
