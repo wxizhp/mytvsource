@@ -1,5 +1,6 @@
 import os
 import re
+import time
 
 from merge import merge_zb_txt
 
@@ -65,7 +66,8 @@ def get_ordered_patterns():
 
 
 def format_iptv(zb_urls_list:list):
-    new_zb_urls = []
+    date_str = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    new_zb_urls = [f"# IPTV直播源，更新于{date_str}"]
     
     for line in zb_urls_list:
         matched = False
