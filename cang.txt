@@ -1,7 +1,4 @@
 {
-"spider":"https://oss4liview.moji.com/thd_file/2026/02/17/7d3cdcb2f8b1593eb773420f2abe2ac1.jpg;md5;e3401ec8d207b9d9a14bad13a67af3ee",
-"wallpaper":"https://深色壁纸.xxooo.cf/",
-
 "sites":[
 {"key":"点我切源","name":"新春大吉 马到成功！新公众号【太太太硬了】","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"MDrive","name":"🗂我的云盘┃我配置","type":3,"api":"csp_MyDriveGuard","changeable":0,"indexs":0,"searchable":1,"style":{"type":"oval"},"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
