@@ -21,7 +21,9 @@ def main():
         "https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u",
         "https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/refs/heads/main/Telecom-Shandong.m3u",
         "https://raw.githubusercontent.com/lptv800/lptv800.github.io/refs/heads/master/IPTV.m3u",
-        "",
+        "https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/CNTV-V4.m3u",
+        "https://raw.githubusercontent.com/zhi35/iptv/refs/heads/master/iptv.m3u",
+        "https://raw.githubusercontent.com/ioptu/IPTV.txt2m3u.player/refs/heads/main/yp.qqqtv.top_merged.m3u"
 
 
     ]
