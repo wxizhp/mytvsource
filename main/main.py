@@ -2,6 +2,7 @@ from get_zb_list import get_zb_urls_list
 from merge import merge_zb_txt
 from format_cctv import format_iptv
 from get_zb_list2_to_wuqiong import get_zb_list2, get_zb_list3, get_zb_list4
+from test_network import test_network_fun
 
 
 zb_txt_list = ["zb_list.txt", "other.txt", "zb_list2.txt", "zb_list3.txt", "zb_list4.txt"]
@@ -43,6 +44,8 @@ def main():
         merge_list.append('')       
     format_iptv(merge_list)
     print("格式化完成")
+    test_network_fun()
+    
 
 
 if __name__ == "__main__":
