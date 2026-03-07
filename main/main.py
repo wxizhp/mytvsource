@@ -1,3 +1,5 @@
+import asyncio
+
 from get_zb_list import get_zb_urls_list
 from merge import merge_zb_txt
 from format_cctv import format_iptv
@@ -44,9 +46,10 @@ def main():
         merge_list.append('')       
     format_iptv(merge_list)
     print("格式化完成")
-    test_network_fun()
+    
     
 
 
 if __name__ == "__main__":
     main()
+    # asyncio.run(test_network_fun())
