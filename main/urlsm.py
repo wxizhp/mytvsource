@@ -1,5 +1,4 @@
 urls = [
-    '',
     'https://raw.githubusercontent.com/alexyanghx/TV/refs/heads/master/output/result.txt',
     'https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt',
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt',

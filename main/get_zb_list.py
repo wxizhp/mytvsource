@@ -41,7 +41,8 @@ def get_zb_urls(urls,proxyurl:str,get_proxy_list):
         proxy_list.append('')  # 添加一个空字符串，表示直接访问
     proxy_used = ''
     for url in urls:
-        
+        if not url.strip():
+            continue
         res_text = ''
         proxy_url = ''
         if 'git' not in url:
