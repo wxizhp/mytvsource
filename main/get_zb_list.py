@@ -56,7 +56,7 @@ def get_zb_urls(urls,proxyurl:str,get_proxy_list):
             if proxy_used not in proxy_list:
                 proxy_list.appendleft(proxy_used)  # 将之前成功的代理添加回列表
             for proxy in proxy_list:
-                if proxy:  
+                if len(proxy) > 0:  
                     proxy_url = proxy + '/' + url
                 else:
                     proxy_url = url                  
@@ -110,7 +110,7 @@ def get_zb_urls_list():
     with open('zb_list.txt', 'w', encoding='utf-8') as f:
         f.write('\n'.join(full_list))
     print('zb_list.txt保存成功')
-    return full_list
+    # return full_list
             
             
         
