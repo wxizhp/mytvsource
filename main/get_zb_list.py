@@ -1,42 +1,22 @@
+import json
+import os
 import re
-from urlsm import urls,proxy_get_url
+from urlsm import urls
 from collections import deque
-# from format_cctv import format_iptv
-import requests
-
-
-def get_response(url, timeout=10):
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0'
-    }
-    try:
-        res = requests.get(url, headers=headers, timeout=timeout)
-        if res.status_code == 200:
-            return res
-    except Exception as e:
-        print(e)
-        return None
-
-def get_proxy_list(proxyurl)->deque:
-    proxy_list = deque()
-    res = get_response(proxyurl)
-    if not res:
-        return proxy_list
-    res_json = res.json()
-    data = res_json.get('data', [])
-    for item in data:
-        url = item.get('url')
-        if url:
-            proxy_list.append(url)
-    return proxy_list
+from module_all import get_response
 
 
 
-def get_zb_urls(urls,proxyurl:str,get_proxy_list):
+currdir = os.path.dirname(__file__)
+save_dir = os.path.join(currdir, 'data')
+
+with open(os.path.join(save_dir, 'proxy_list.json'), 'r', encoding='utf-8') as f:
+    proxy_list = deque(json.load(f))
+
+def get_zb_urls(urls):
     first_line = ['CCTV, #genre#']
     zb_urls_list = []
     has_add_url = []
-    proxy_list: deque = get_proxy_list(proxyurl)
     if '' not in proxy_list:
         proxy_list.append('')  # 添加一个空字符串，表示直接访问
     proxy_used = ''
@@ -92,32 +72,16 @@ def get_zb_urls(urls,proxyurl:str,get_proxy_list):
         print(f'获取成功:{proxy_url}')
             
     if not zb_urls_list:
-        raise Exception('没有获取到直播源')
-    first_line.extend(zb_urls_list)
-    full_list = first_line
-    return full_list
-    
-    
-    # zb_urls_list.sort(key = lambda x:x.split(',')[0])
-    # format_iptv(zb_urls_list)
-
-
-
-
-
-def get_zb_urls_list():
-    
-    full_list = get_zb_urls(urls,proxy_get_url,get_proxy_list)
-    with open('zb_list.txt', 'w', encoding='utf-8') as f:
-        f.write('\n'.join(full_list))
-    print('zb_list.txt保存成功')
-    # return full_list
-            
-            
+        print('未获取到直播源')
         
+    first_line.extend(zb_urls_list)
+    with open(os.path.join(save_dir, 'zb_list.txt'), 'w', encoding='utf-8') as f:
+        f.write('\n'.join(first_line))
+    print('zb_list.txt保存成功')
+    
 
 
 if __name__ == '__main__':
-    get_zb_urls_list()
+    get_zb_urls(urls)
     
         

@@ -1,41 +1,17 @@
+import json
 import os
-import requests
 from lxml import etree
-from m3u8_to_txt import m3u8_to_txt
 from collections import deque
-from urlsm import proxy_get_url
+from module_all import get_response, m3u8_to_txt
 
 
+currdir = os.path.dirname(__file__)
+save_dir = os.path.join(currdir, 'data')
 
-
-def get_proxy_list(proxyurl)->deque:
-    proxy_list = deque()
-    res = get_response(proxyurl)
-    if not res:
-        return proxy_list
-    res_json = res.json()
-    data = res_json.get('data', [])
-    for item in data:
-        url = item.get('url')
-        if url:
-            proxy_list.append(url)
-    return proxy_list
-
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0'
-}
-
-def get_response(url, timeout=10):
-    try:
-        res = requests.get(url, headers=headers, timeout=timeout)
-        if res.status_code == 200:
-            return res
-    except Exception as e:
-        print(e)
-        return None
+with open(os.path.join(save_dir, 'proxy_list.json'), 'r', encoding='utf-8') as f:
+    proxy_urls = deque(json.load(f))
 
 def get_zb_list2(url,txt_name):
-    
     response = get_response(url)
     if response is None:
         return
@@ -47,9 +23,6 @@ def get_zb_list2(url,txt_name):
             print(f'请求m3u8失败,{m3u8_url}')
             return
         m3u8_text = response_m3u8.text
-        # with open('zb_list2.html', 'w', encoding='utf-8') as f:
-        #     f.write(m3u8_text)
-        # print(m3u8_text)
         lines = m3u8_text.splitlines()
         m3u8_to_txt(lines, txt_name)
         print(f'直播源获取完成，已保存为{txt_name}')
@@ -66,7 +39,6 @@ def get_zb_list3(url,txt_name):
 
 
 def get_zb_list4(urls,txt_name):
-    proxy_urls = get_proxy_list(proxyurl=proxy_get_url)
     lines = []
     proxy_used = ''
     for url in urls:
@@ -114,22 +86,25 @@ def get_zb_list4(urls,txt_name):
 
 if __name__ == '__main__':
     url2 = 'https://www.iptv-free.com/api/seo/language/chinese'
-
     url3 = 'https://ip-tv.app/China'
+    urls4 = [
+        "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn_cctv.m3u",
+        "https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
+        "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
+        "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+        "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u",
+        "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
+        "https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv4.m3u",
+        "https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u",
+        "https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/refs/heads/main/Telecom-Shandong.m3u",
+        "https://raw.githubusercontent.com/lptv800/lptv800.github.io/refs/heads/master/IPTV.m3u",
+        "https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/CNTV-V4.m3u",
+        "https://raw.githubusercontent.com/zhi35/iptv/refs/heads/master/iptv.m3u"
+       
 
-
-    url4 = "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn_cctv.m3u"
-
-    url4_1 = "https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u"
-
-   
-
-    
-
-    # get_zb_list2(url2, 'zb_list2.txt')
-    # get_zb_list3(url3, 'zb_list3.txt')
-
-    # get_zb_list4(url4, 'zb_list4.txt')
-    get_zb_list4(url4_1, 'zb_list4_1.txt')
+    ]
+    get_zb_list2(url2, 'zb_list2.txt')
+    get_zb_list3(url3, 'zb_list3.txt')
+    get_zb_list4(urls4, 'zb_list4.txt')
     
    

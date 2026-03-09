@@ -1,8 +1,12 @@
+import json
 import os
 import re
 import time
 
 from merge import merge_zb_txt
+
+currdir = os.path.dirname(__file__)
+save_dir = os.path.join(currdir, 'data')
 
 currdir = os.path.dirname(__file__)
 tvzh = [
@@ -103,8 +107,8 @@ def format_iptv(zb_urls_list:list):
     print('格式化完成，已保存为tv.txt')
             
 if __name__ == '__main__':
-    zb_txt_list = ["zb_list.txt", "other.txt"]
-    merge_dict = merge_zb_txt(zb_txt_list)
+    with open(os.path.join(save_dir, 'zb_list_merge.json'), 'r', encoding='utf-8') as f:
+        merge_dict = json.load(f)
     merge_list = []
     for k, v in merge_dict.items():
         merge_list.append(k)
