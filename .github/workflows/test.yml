@@ -30,7 +30,12 @@ jobs:
         run: |
           echo "Registering device..."
           # 注册新设备 (免费模式)
-          warp-cli registration new --accept-tos
+           expect << EOF
+            spawn warp-cli registration new
+            expect "Do you agree to the Terms of Service?"
+            send "Y\r"
+            expect eof
+          EOF
           
           echo "Setting mode to system..."
           # 设置为系统代理模式 (接管所有流量)
