@@ -16,12 +16,42 @@ jobs:
           ref: ${{ github.ref_name }}  # 👈 确保使用正确的分支
           token: ${{ secrets.GITHUB_TOKEN }}  # 👈 使用 GitHub Token 进行认证
 
-      - name: enpitsulin/warp
-        uses: enpitsuLin/warp@v1.1.2
-        with:
-          mode: proxy
+      - name: install warp
+        run: |
+          echo "Installing Cloudflare WARP..."
+          curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor -o /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
+          echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
+          sudo apt-get update
+          sudo apt-get install -y cloudflare-warp
+          echo "Installation complete."
+          warp-cli --version
+      
+      - name: connect warp
+        run: |
+          echo "Registering device..."
+          # 注册新设备 (免费模式)
+          warp-cli registration new
+          
+          echo "Setting mode to system..."
+          # 设置为系统代理模式 (接管所有流量)
+          warp-cli mode system
+          
+          echo "Connecting..."
+          # 发起连接
+          warp-cli connect
+          
+          # 等待几秒让连接稳定
+          sleep 5
+          
+          echo "Checking connection status..."
+          warp-cli status
      
       - name: Run script
         run: | 
           ping6 -c 1 ipv6.google.com || echo "IPv6 not working"
 
+      - name: Disconnect WARP
+        if: always()
+        run: |
+          echo "Disconnecting WARP..."
+          warp-cli disconnect || true
