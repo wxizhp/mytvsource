@@ -40,9 +40,9 @@ async def test_url(line, session:aiohttp.ClientSession,sem:asyncio.Semaphore,tv:
 async def test_network_fun():
     async with aiohttp.ClientSession() as session:
         merge_dict = get_url_list('zb_list_merge.json')
-        tv: deque = deque()
+        tv: dict = {}
         for k, lines in merge_dict.items():
-            tv.append(k)
+            tv[k] = deque()  # 使用deque来存储成功的URL
             tasks = []
             sem = asyncio.Semaphore(100)  # 限制并发数量为100
             for line in lines:
@@ -51,17 +51,23 @@ async def test_network_fun():
                 if ',' not in line:
                     continue
                 if '[' in line and ']' in line:
-                    tv.append(line)
+                    tv[k].append(line)
                     continue
                 if any(filer in line for filer in filer_url):
                     continue
-                task = asyncio.create_task(test_url(line.strip(), session,sem,tv))
+                task = asyncio.create_task(test_url(line.strip(), session,sem,tv[k]))
                 tasks.append(task)
             await asyncio.gather(*tasks)
         print("测试完成，成功的URL数量：", len(tv))
+        
         with open(os.path.join(save_dir, 'tv_test.txt'), 'w', encoding='utf-8') as f:
-            for line in tv:
-                f.write(line + '\n')
+            ttv_list = []
+            for k, lines in tv.items():
+                ttv_list.append(k)
+                for line in lines:
+                    ttv_list.append(line)
+            f.write('\n'.join(ttv_list))
+                
 
         
     
