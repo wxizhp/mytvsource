@@ -18,7 +18,6 @@ jobs:
 
   
       - name: Setup WARP
-        id: ip
         uses: uses: candidob/get-runner-ip@v1.0.0
 
       
