@@ -16,65 +16,12 @@ jobs:
           ref: ${{ github.ref_name }}  # 👈 确保使用正确的分支
           token: ${{ secrets.GITHUB_TOKEN }}  # 👈 使用 GitHub Token 进行认证
 
-      - name: install warp
-        run: |
-          echo "Installing Cloudflare WARP..."
-          curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor -o /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
-          echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
-          sudo apt-get update
-          sudo apt-get install -y cloudflare-warp
-          echo "Installation complete."
-          warp-cli --version
-      
-      - name: connect warp
-        run: |
-          echo "Installing Cloudflare WARP and expect..."
-          curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor -o /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
-          echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
-          sudo apt-get update
-          # 重点：安装 expect 用于自动交互
-          sudo apt-get install -y cloudflare-warp expect
-          warp-cli --version
-
-      # --- 步骤 2: 注册并启动 WARP (使用 expect 自动同意 TOS) ---
+          
       - name: Setup WARP
-        run: |
-          echo "Registering device with auto-accept..."
-          
-          # 使用 expect 自动发送 'Y' 回应 TOS 提示
-          expect << 'EOF'
-            set timeout 30
-            spawn warp-cli registration new
-            expect {
-              "Do you agree to the WARP Terms of Service?" {
-                send "Y\r"
-                expect eof
-              }
-              eof
-            }
-          EOF
-          
-          echo "Setting mode to proxy..."
-          # 【关键修复】使用 'proxy' 模式代替 'system'
-          warp-cli mode proxy
-          
-          echo "Connecting to WARP..."
-          warp-cli connect
-          
-          sleep 5
-          
-          echo "Checking status..."
-          warp-cli status
-          
-          # 验证连接状态
-          if ! warp-cli status | grep -q "Connected"; then
-            echo "Error: WARP connection failed."
-            warp-cli status
-            exit 1
-          fi
-          
-          echo "WARP is connected in proxy mode on port 40000."
-     
+        uses: boywithkeyboard/warp@v1
+        with:
+          familyMode: malware
+      
       - name: Run script
         run: | 
           ping6 -c 1 ipv6.google.com || echo "IPv6 not working"
