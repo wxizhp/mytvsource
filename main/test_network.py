@@ -75,7 +75,7 @@ async def test_network_fun():
                 ttv_list.append(k)
                 if 'CCTV' in k:
                     lines.extend(ipv6_lines)
-                lines.sort()
+                # lines.sort()
                 for line in lines:
                     ttv_list.append(line)
             f.write('\n'.join(ttv_list))
