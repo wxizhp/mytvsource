@@ -28,35 +28,37 @@ jobs:
       
       - name: connect warp
         run: |
-          echo "Preparing WARP configuration..."
+          echo "Installing Cloudflare WARP and expect..."
+          curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor -o /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
+          echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
+          sudo apt-get update
+          # 重点：安装 expect 用于自动交互
+          sudo apt-get install -y cloudflare-warp expect
+          warp-cli --version
+
+      # --- 步骤 2: 注册并启动 WARP (使用 expect 自动同意 TOS) ---
+      - name: Setup WARP
+        run: |
+          echo "Registering device with auto-accept..."
           
-          # 1. 确保配置目录存在
-          sudo mkdir -p /var/lib/cloudflare-warp
+          # 使用 expect 自动发送 'Y' 回应 TOS 提示
+          expect << 'EOF'
+            set timeout 30
+            spawn warp-cli registration new
+            expect {
+              "Do you agree to the WARP Terms of Service?" {
+                send "Y\r"
+                expect eof
+              }
+              eof
+            }
+          EOF
           
-          # 2. 【关键技巧】直接创建/reg.json 文件来跳过 TOS 提示
-          # 这样 warp-cli 会认为用户已经同意了条款
-          echo '{"tos_accepted": true}' | sudo tee /var/lib/cloudflare-warp/reg.json > /dev/null
+          echo "Setting mode to proxy..."
+          # 【关键修复】使用 'proxy' 模式代替 'system'
+          warp-cli mode proxy
           
-          echo "Registering device (non-interactive)..."
-          # 尝试注册。如果上面创建了 reg.json，通常可以直接成功。
-          # 如果仍然报错，尝试使用 expect 或纯后台模式，但通常上面的方法在 Ubuntu 上有效。
-          # 注意：某些新版本可能需要先运行一次 new 生成 key，再修改文件，再 connect。
-          # 为了最稳妥，我们采用：先运行 new (忽略 TOS 错误)，强制修改文件，再 connect。
-          
-          # 尝试运行 new，即使它因 TOS 失败也没关系，因为它可能生成了部分文件
-          warp-cli registration new || true
-          
-          # 再次强制写入同意状态 (覆盖任何未完成的注册状态)
-          # 格式必须是有效的 JSON
-          echo '{"tos_accepted": true, "organization": ""}' | sudo tee /var/lib/cloudflare-warp/reg.json > /dev/null
-          
-          # 如果 reg.json 不存在，可能是路径不同，尝试 ~/.cloudflare-warp (虽然 systemd 服务通常用 /var/lib)
-          # 对于 GitHub Actions 的 systemd 服务，路径通常是 /var/lib/cloudflare-warp/reg.json
-          
-          echo "Setting mode to system..."
-          warp-cli mode system
-          
-          echo "Connecting..."
+          echo "Connecting to WARP..."
           warp-cli connect
           
           sleep 5
@@ -64,12 +66,14 @@ jobs:
           echo "Checking status..."
           warp-cli status
           
-          # 验证是否真的连上了
+          # 验证连接状态
           if ! warp-cli status | grep -q "Connected"; then
-             echo "Connection failed. Trying alternative registration method..."
-             # 备选方案：有些版本支持 'registration new --no-gui' 或其他变体，但修改文件是最通用的
-             exit 1
+            echo "Error: WARP connection failed."
+            warp-cli status
+            exit 1
           fi
+          
+          echo "WARP is connected in proxy mode on port 40000."
      
       - name: Run script
         run: | 
