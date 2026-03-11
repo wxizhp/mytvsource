@@ -71,6 +71,7 @@ async def test_network_fun():
             ttv_list = []
             for k, lines in tv.items():
                 ttv_list.append(k)
+                lines.sort()
                 for line in lines:
                     ttv_list.append(line)
             f.write('\n'.join(ttv_list))

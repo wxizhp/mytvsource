@@ -23,6 +23,7 @@ def m3u8_to_txt(lines:list,txt_name):
     tvname = ''
     last_tvname = ''
     temp = {}
+    
 
     for line in lines:
         if 'EXTINF' in line:
@@ -31,6 +32,7 @@ def m3u8_to_txt(lines:list,txt_name):
             if not tvname or re.findall(r'^CCTV', tvname, re.IGNORECASE) == []: 
                 tvname = ''
                 continue
+            
             if temp.get(tvname) is None and len(temp.keys()) > 0:
                 for k, v in temp.items():
                     for i in v:

@@ -28,12 +28,14 @@ def get_zb_list2(url,txt_name):
         print(f'直播源获取完成，已保存为{txt_name}')
 
     
-def get_zb_list3(url,txt_name):
-    response = get_response(url)
-    if response is None:
-        return
-    m3u8_text = response.text
-    lines = m3u8_text.splitlines()
+def get_zb_list3(urls,txt_name):
+    lines = []
+    for url in urls:
+        response = get_response(url)
+        if response is None:
+            return
+        m3u8_text = response.text
+        lines.extend(m3u8_text.splitlines())
     m3u8_to_txt(lines, txt_name)
     print(f'直播源获取完成，已保存为{txt_name}')
 
@@ -86,7 +88,10 @@ def get_zb_list4(urls,txt_name):
 
 if __name__ == '__main__':
     url2 = 'https://www.iptv-free.com/api/seo/language/chinese'
-    url3 = 'https://ip-tv.app/China'
+    url3 = [
+        'https://ip-tv.app/China',
+        'https://live.iptv-free.com/iptv/languages/zho.m3u'
+        ]
     urls4 = [
         "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn_cctv.m3u",
         "https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
