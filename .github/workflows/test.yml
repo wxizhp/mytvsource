@@ -16,11 +16,12 @@ jobs:
           ref: ${{ github.ref_name }}  # 👈 确保使用正确的分支
           token: ${{ secrets.GITHUB_TOKEN }}  # 👈 使用 GitHub Token 进行认证
 
-          
+
       - name: Setup WARP
-        uses: boywithkeyboard/warp@v1
+        uses: boywithkeyboard-archive/warp@v1.1.1
         with:
-          familyMode: malware
+          onlyDoH: false
+          familyMode: off
       
       - name: Run script
         run: | 
