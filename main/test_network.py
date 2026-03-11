@@ -5,6 +5,7 @@ import requests
 from threading import Thread
 import aiohttp
 import asyncio
+from collections import deque
 
 
 
@@ -24,13 +25,13 @@ def get_url_list(file_name)-> dict:
 
 
 timeout = aiohttp.ClientTimeout(total=10)  # 设置总超时时间为10秒
-async def test_url(line, session:aiohttp.ClientSession,sem:asyncio.Semaphore,tv: list):
+async def test_url(line, session:aiohttp.ClientSession,sem:asyncio.Semaphore,tv: deque):
     async with sem:
         url = line.split(',')[1]
         try: 
             async with session.get(url, timeout=timeout) as response:
                 if response.status == 200:
-                    tv.append(line)
+                    tv.appendleft(line)
                     print(f"URL {url} 测试成功")
         except Exception as e:
             print(f"请求URL {url} 时发生错误: {e}")
@@ -39,7 +40,7 @@ async def test_url(line, session:aiohttp.ClientSession,sem:asyncio.Semaphore,tv:
 async def test_network_fun():
     async with aiohttp.ClientSession() as session:
         merge_dict = get_url_list('zb_list_merge.json')
-        tv: list = []
+        tv: deque = deque()
         for k, lines in merge_dict.items():
             tv.append(k)
             tasks = []
@@ -50,6 +51,7 @@ async def test_network_fun():
                 if ',' not in line:
                     continue
                 if '[' in line and ']' in line:
+                    tv.append(line)
                     continue
                 if any(filer in line for filer in filer_url):
                     continue
