@@ -2,7 +2,7 @@ name: Auto Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 */2 * *'
+    - cron: '0 0 */14 * *'
 
 
 jobs:
@@ -31,12 +31,7 @@ jobs:
         
     
       - name: Run script
-        run: |
-          python ./main/get_zb_list.py
-          python ./main/get_zb_list2_to_wuqiong.py
-          python ./main/merge.py
-          python ./main/test_network.py
-          python ./main/format_cctv.py
+        run: python ./main/get_proxyurls.py
 
 
       - name: Commit and push changes

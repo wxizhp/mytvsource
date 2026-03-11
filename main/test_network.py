@@ -1,4 +1,6 @@
 from collections import deque
+import json
+import os
 import requests
 from threading import Thread
 import aiohttp
@@ -6,45 +8,54 @@ import asyncio
 
 
 
-def get_url_list(file_name):
-    url_list: deque = deque()
-    with open(file_name, 'r', encoding='utf-8') as f:
-        for line in f:
-            url_list.append(line.strip())
-    return url_list
+filer_url = [
+    "kkk.jjjj.jiduo.me"
+]
+
+currdir = os.path.dirname(__file__)
+save_dir = os.path.join(currdir, 'data')
+
+def get_url_list(file_name)-> dict:
+    with open(os.path.join(save_dir, file_name), 'r', encoding='utf-8') as f:
+        merge_dict = json.load(f)
+        return merge_dict
 
             
 
 
-
-async def test_url(line, session,sem,tv: list):
+timeout = aiohttp.ClientTimeout(total=10)  # 设置总超时时间为10秒
+async def test_url(line, session:aiohttp.ClientSession,sem:asyncio.Semaphore,tv: list):
     async with sem:
-        url = line.split(',')[1]    # 获取一个信号量
-        async with session.get(url) as response:
-            if response.status == 200:
-                tv.append(line)
-
+        url = line.split(',')[1]
+        try: 
+            async with session.get(url, timeout=timeout) as response:
+                if response.status == 200:
+                    tv.append(line)
+                    print(f"URL {url} 测试成功")
+        except Exception as e:
+            print(f"请求URL {url} 时发生错误: {e}")
 
 
 async def test_network_fun():
     async with aiohttp.ClientSession() as session:
-        url_list = get_url_list('tv_format.txt')
+        merge_dict = get_url_list('zb_list_merge.json')
         tv: list = []
-        tasks = []
-        sem = asyncio.Semaphore(20)  # 限制并发数量为100
-        for line in url_list:
-            if not line.strip():
-                continue
-            if '#' in line:
-                tv.append(line.strip())
-                continue
-            if ',' not in line:
-                continue
-            task = asyncio.create_task(test_url(line.strip(), session,sem,tv))
-            tasks.append(task)
-        await asyncio.gather(*tasks)
+        for k, lines in merge_dict.items():
+            tv.append(k)
+            tasks = []
+            sem = asyncio.Semaphore(100)  # 限制并发数量为100
+            for line in lines:
+                if not line.strip():
+                    continue
+                if ',' not in line:
+                    continue
+                if any(filer in line for filer in filer_url):
+                    continue
+                task = asyncio.create_task(test_url(line.strip(), session,sem,tv))
+                tasks.append(task)
+            await asyncio.gather(*tasks)
         print("测试完成，成功的URL数量：", len(tv))
-        with open('tv.txt', 'w', encoding='utf-8') as f:
+        with open(os.path.join(save_dir, 'tv_test.txt'), 'w', encoding='utf-8') as f:
             for line in tv:
                 f.write(line + '\n')
 

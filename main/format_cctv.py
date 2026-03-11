@@ -107,14 +107,5 @@ def format_iptv(zb_urls_list:list):
     print('格式化完成，已保存为tv.txt')
             
 if __name__ == '__main__':
-    with open(os.path.join(save_dir, 'zb_list_merge.json'), 'r', encoding='utf-8') as f:
-        merge_dict = json.load(f)
-    merge_list = []
-    for k, v in merge_dict.items():
-        merge_list.append(k)
-        merge_list.extend(v)
-        merge_list.append('')
-
-        
-    format_iptv(merge_list)
-    # print("done")
+    with open(os.path.join(save_dir, 'tv_test.txt'), 'r', encoding='utf-8') as f:
+        format_iptv(f.readlines())
