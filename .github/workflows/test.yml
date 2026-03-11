@@ -20,8 +20,8 @@ jobs:
       - name: Setup WARP
         uses: boywithkeyboard-archive/warp@v1.1.1
         with:
-          onlyDoH: false
-          familyMode: malware
+          onlyDoH: 'false'
+          familyMode: 'off'
 
       
       - name: Run script
