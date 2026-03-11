@@ -29,10 +29,17 @@ async def test_url(line, session:aiohttp.ClientSession,sem:asyncio.Semaphore,tv:
     async with sem:
         url = line.split(',')[1]
         try: 
+            content1 = None
+            content2 = None
             async with session.get(url, timeout=timeout) as response:
                 if response.status == 200:
-                    tv.appendleft(line)
-                    print(f"URL {url} 测试成功")
+                    content1 = await response.read()
+            async with session.get(url, timeout=timeout) as response:
+                if response.status == 200:
+                    content2 = await response.read()
+                    if content1 != content2:
+                        tv.appendleft(line)
+                        print(f"{url} 测试成功")
         except Exception as e:
             print(f"请求URL {url} 时发生错误: {e}")
 
