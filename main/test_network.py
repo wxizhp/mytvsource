@@ -49,6 +49,8 @@ async def test_network_fun():
                     continue
                 if ',' not in line:
                     continue
+                if '[' in line and ']' in line:
+                    continue
                 if any(filer in line for filer in filer_url):
                     continue
                 task = asyncio.create_task(test_url(line.strip(), session,sem,tv))
