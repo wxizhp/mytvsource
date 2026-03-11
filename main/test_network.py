@@ -48,9 +48,10 @@ async def test_network_fun():
     async with aiohttp.ClientSession() as session:
         merge_dict = get_url_list('zb_list_merge.json')
         tv: dict = {}
+        ipv6_lines = []
         for k, lines in merge_dict.items():
             tv[k] = []  # 使用deque来存储成功的URL
-            ipv6_lines = []
+            
             tasks = []
             sem = asyncio.Semaphore(100)  # 限制并发数量为100
             for line in lines:
@@ -59,7 +60,7 @@ async def test_network_fun():
                 if ',' not in line:
                     continue
                 if '[' in line and ']' in line:
-                    tv[k].append(line)
+                    ipv6_lines.append(line)
                     continue
                 if any(filer in line for filer in filer_url):
                     continue
@@ -72,7 +73,7 @@ async def test_network_fun():
             ttv_list = []
             for k, lines in tv.items():
                 ttv_list.append(k)
-                    
+                lines.extend(ipv6_lines)
                 for line in lines:
                     ttv_list.append(line)
             f.write('\n'.join(ttv_list))
