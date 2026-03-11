@@ -24,7 +24,7 @@ def get_url_list(file_name)-> dict:
             
 
 
-timeout = aiohttp.ClientTimeout(total=10)  # 设置总超时时间为10秒
+timeout = aiohttp.ClientTimeout(total=20, connect=10)  # 设置连接超时时间为10秒
 async def test_url(line, session:aiohttp.ClientSession,sem:asyncio.Semaphore,tv: deque):
     async with sem:
         url = line.split(',')[1]
