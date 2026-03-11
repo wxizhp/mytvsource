@@ -25,7 +25,7 @@ def get_url_list(file_name)-> dict:
 
 
 timeout = aiohttp.ClientTimeout(total=20, connect=10)  # 设置连接超时时间为10秒
-async def test_url(line, session:aiohttp.ClientSession,sem:asyncio.Semaphore,tv: deque):
+async def test_url(line, session:aiohttp.ClientSession,sem:asyncio.Semaphore,tv: list):
     async with sem:
         url = line.split(',')[1]
         try: 
@@ -38,7 +38,7 @@ async def test_url(line, session:aiohttp.ClientSession,sem:asyncio.Semaphore,tv:
                 if response.status == 200:
                     content2 = await response.read()
                     if content1 != content2:
-                        tv.appendleft(line)
+                        tv.append(line)
                         print(f"{url} 测试成功")
         except Exception as e:
             print(f"请求URL {url} 时发生错误: {e}")
@@ -49,7 +49,8 @@ async def test_network_fun():
         merge_dict = get_url_list('zb_list_merge.json')
         tv: dict = {}
         for k, lines in merge_dict.items():
-            tv[k] = deque()  # 使用deque来存储成功的URL
+            tv[k] = []  # 使用deque来存储成功的URL
+            ipv6_lines = []
             tasks = []
             sem = asyncio.Semaphore(100)  # 限制并发数量为100
             for line in lines:
@@ -71,13 +72,13 @@ async def test_network_fun():
             ttv_list = []
             for k, lines in tv.items():
                 ttv_list.append(k)
-                lines.sort()
+                    
                 for line in lines:
                     ttv_list.append(line)
             f.write('\n'.join(ttv_list))
                 
 
-        
+
     
         
 if __name__ == "__main__":
