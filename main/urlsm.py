@@ -14,7 +14,8 @@ urls = [
     'https://raw.githubusercontent.com/kimwang1978/collect-txt/2f2f1fd4a498ccbd59a91a207dc5ba760f4cf669/assets/freetv/freetv_output_cctv.txt',
     'https://raw.githubusercontent.com/52liulian/iptv365/refs/heads/main/live_lite.txt',
     'https://raw.githubusercontent.com/bj123sd/IPTV/refs/heads/main/hycg.txt',
-    'https://live.zbds.top/tv/iptv4.txt'
+    'https://live.zbds.top/tv/iptv4.txt',
+    'https://live.hacks.tools/tv/ipv4/categories/%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93.txt'
 ]
 
 
