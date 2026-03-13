@@ -1,23 +1,56 @@
-urls = [
-    "https://raw.githubusercontent.com/alexyanghx/TV/refs/heads/master/output/result.txt",
-    "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
-    "https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt",
-    "https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/refs/heads/main/iptv.txt",
-    "https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt",
-    "https://raw.githubusercontent.com/liuchuang0321/K-TV/refs/heads/master/output/ipv4/result.txt",
-    "https://raw.githubusercontent.com/liuchuang0321/K-TV/refs/heads/master/output/ipv6/result.txt",
-    "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.txt",
-    "https://raw.githubusercontent.com/Wirili/IPTV/refs/heads/main/live.txt",
-    "https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others_output.txt",
-    "https://raw.githubusercontent.com/luochen1975/gitgordon85-IPTV-Check/refs/heads/master/output/result.txt",
-    "https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/%E7%BB%93%E6%9E%9C.txt",
-    "https://raw.githubusercontent.com/kimwang1978/collect-txt/2f2f1fd4a498ccbd59a91a207dc5ba760f4cf669/assets/freetv/freetv_output_cctv.txt",
-    "https://raw.githubusercontent.com/52liulian/iptv365/refs/heads/main/live_lite.txt",
-    "https://raw.githubusercontent.com/bj123sd/IPTV/refs/heads/main/hycg.txt",
-    "https://live.zbds.top/tv/iptv4.txt",
-    "https://live.hacks.tools/tv/ipv4/categories/%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93.txt"
-]
+urls_dict = {
+    "txt": [
+        "https://raw.githubusercontent.com/alexyanghx/TV/refs/heads/master/output/result.txt",
+        "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+        "https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt",
+        "https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/refs/heads/main/iptv.txt",
+        "https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt",
+        "https://raw.githubusercontent.com/liuchuang0321/K-TV/refs/heads/master/output/ipv4/result.txt",
+        "https://raw.githubusercontent.com/liuchuang0321/K-TV/refs/heads/master/output/ipv6/result.txt",
+        "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.txt",
+        "https://raw.githubusercontent.com/Wirili/IPTV/refs/heads/main/live.txt",
+        "https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others_output.txt",
+        "https://raw.githubusercontent.com/luochen1975/gitgordon85-IPTV-Check/refs/heads/master/output/result.txt",
+        "https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/%E7%BB%93%E6%9E%9C.txt",
+        "https://raw.githubusercontent.com/kimwang1978/collect-txt/2f2f1fd4a498ccbd59a91a207dc5ba760f4cf669/assets/freetv/freetv_output_cctv.txt",
+        "https://raw.githubusercontent.com/52liulian/iptv365/refs/heads/main/live_lite.txt",
+        "https://raw.githubusercontent.com/bj123sd/IPTV/refs/heads/main/hycg.txt",
+        "https://live.zbds.top/tv/iptv4.txt",
+        "https://live.hacks.tools/tv/ipv4/categories/%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93.txt",
+    ],
 
+
+
+    "m3u": [
+        "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn_cctv.m3u",
+        "https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
+        "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
+        "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+        "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u",
+        "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
+        "https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv4.m3u",
+        "https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u",
+        "https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/refs/heads/main/Telecom-Shandong.m3u",
+        "https://raw.githubusercontent.com/lptv800/lptv800.github.io/refs/heads/master/IPTV.m3u",
+        "https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/CNTV-V4.m3u",
+        "https://raw.githubusercontent.com/zhi35/iptv/refs/heads/master/iptv.m3u",
+        "https://live.iptv-free.com/iptv/languages/zho.m3u",  # https://www.iptv-free.com/api/seo/language/chinese
+        "https://ip-tv.app/China",
+        "https://live.iptv-free.com/iptv/languages/zho.m3u",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+    ]
+}
 
 # 代理列表获取地址
 proxy_get_url = "https://api.akams.cn/github"
+
+test_url = "https://raw.githubusercontent.com/wxizhp/mytvsource/refs/heads/main/tv.txt"

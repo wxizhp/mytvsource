@@ -1,24 +1,25 @@
 import os
 import re
-
-import requests
+import aiohttp
 
 
 currdir = os.path.dirname(__file__)
 save_dir = os.path.join(currdir, 'data')
-def get_response(url, timeout=15):
+
+async def get_response(url, session: aiohttp.ClientSession, timeout:aiohttp.ClientTimeout = aiohttp.ClientTimeout(total=15)):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0'
     }
     try:
-        res = requests.get(url, headers=headers, timeout=timeout)
-        if res.status_code == 200:
-            return res
+        async with session.get(url, headers=headers, timeout=timeout) as res:
+            if res.status == 200:
+                return await res.text()
     except Exception as e:
         print(e)
-        return None
+
+
     
-def m3u8_to_txt(lines:list,txt_name):
+def m3u8_to_txt_in_cctv(lines:list,txt_name):
     txtstr = []
     tvname = ''
     last_tvname = ''
@@ -30,7 +31,7 @@ def m3u8_to_txt(lines:list,txt_name):
             tvname = line.split(',')[-1].strip()
             
             if not tvname or re.findall(r'^CCTV', tvname, re.IGNORECASE) == []: 
-                tvname = ''
+                # tvname = '未知'
                 continue
             
             if temp.get(tvname) is None and len(temp.keys()) > 0:

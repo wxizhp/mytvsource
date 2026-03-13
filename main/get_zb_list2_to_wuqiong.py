@@ -87,27 +87,7 @@ def get_zb_list4(urls,txt_name):
         
 
 if __name__ == '__main__':
-    url2 = 'https://www.iptv-free.com/api/seo/language/chinese'
-    url3 = [
-        'https://ip-tv.app/China',
-        'https://live.iptv-free.com/iptv/languages/zho.m3u'
-        ]
-    urls4 = [
-        "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn_cctv.m3u",
-        "https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
-        "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
-        "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-        "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u",
-        "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
-        "https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv4.m3u",
-        "https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u",
-        "https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/refs/heads/main/Telecom-Shandong.m3u",
-        "https://raw.githubusercontent.com/lptv800/lptv800.github.io/refs/heads/master/IPTV.m3u",
-        "https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/CNTV-V4.m3u",
-        "https://raw.githubusercontent.com/zhi35/iptv/refs/heads/master/iptv.m3u"
-       
-
-    ]
+    
     get_zb_list2(url2, 'zb_list2.txt')
     get_zb_list3(url3, 'zb_list3.txt')
     get_zb_list4(urls4, 'zb_list4.txt')

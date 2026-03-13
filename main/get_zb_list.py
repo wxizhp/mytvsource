@@ -1,19 +1,22 @@
+import asyncio
 import json
 import os
 import re
-from urlsm import urls
+import aiohttp
 from collections import deque
 from module_all import get_response
+from urlsm import urls_dict
 
 
 
 currdir = os.path.dirname(__file__)
 save_dir = os.path.join(currdir, 'data')
 
+
 with open(os.path.join(save_dir, 'proxy_list.json'), 'r', encoding='utf-8') as f:
     proxy_list = deque(json.load(f))
 
-def get_zb_urls(urls):
+async def get_zb_from_txt(urls):
     first_line = ['CCTV, #genre#']
     zb_urls_list = []
     has_add_url = []
@@ -78,10 +81,75 @@ def get_zb_urls(urls):
     with open(os.path.join(save_dir, 'zb_list.txt'), 'w', encoding='utf-8') as f:
         f.write('\n'.join(first_line))
     print('zb_list.txt保存成功')
+
+
+
+def get_zb_list4(urls,txt_name):
+    lines = []
+    proxy_used = ''
+    for url in urls:
+        if not url.strip():
+            continue
+        if proxy_used:
+            proxy_url = proxy_used + '/' + url
+            response = get_response(proxy_url)
+            if response is not None:
+                m3u8_text = response.text
+                if '<html' in m3u8_text or len(m3u8_text) < 20:
+                    print(f'响应内容异常，尝试下一个代理: {proxy_used}')
+                    proxy_used = ''
+                else:
+                    lines.extend(m3u8_text.splitlines())
+                    continue
+            else:
+                print(f'请求失败，尝试下一个代理: {proxy_used}')
+                proxy_used = ''
+        
+        for proxy in proxy_urls:
+            proxy_url = proxy + '/' + url
+            response = get_response(proxy_url)
+            if response is None:
+                print(f'请求失败，尝试下一个代理: {proxy}')
+                proxy_used = ''
+                continue
+            m3u8_text = response.text
+            if '<html' in m3u8_text or len(m3u8_text) < 20:
+                print(f'响应内容异常，尝试下一个代理: {proxy}')
+                proxy_used = ''
+                continue
+
+            lines_ = m3u8_text.splitlines()
+            lines.extend(lines_)
+            proxy_used = proxy
+            break
+    if lines:
+        m3u8_to_txt(lines, txt_name)
+        print(f'直播源获取完成，已保存为{txt_name}')
     
+
+async def get_proxy_url
+
+async def get_zb(url, session: aiohttp.ClientSession, sem: asyncio.Semaphore):
+    async with sem:
+        if url.endwith()
+        
+        
+async def get_zb_list(urls_dict,proxy_urls):
+    async with aiohttp.ClientSession() as session:
+        tasks =[]
+        sem = asyncio.Semaphore(5)
+        for k,urls in urls_dict.items():
+            if 'txt' in k:
+                for url in urls:
+                    task = asyncio.create_task(get_zb_from_txt(url))
+                    tasks.append(task)
+            if 'm3u' in k:
+                task = asyncio.create_task(get_zb_from_m3u(urls, sem))
+                tasks.append(task)
+        await asyncio.gather(*tasks)
 
 
 if __name__ == '__main__':
-    get_zb_urls(urls)
+    asyncio.run(get_zb_list(urls_dict))
     
         
