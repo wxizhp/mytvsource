@@ -701,7 +701,7 @@ CCTV-6 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/7/index.m3u8
 CCTV-7 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/8/index.m3u8
 CCTV-8 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/9/index.m3u8
 CCTV-9 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/10/index.m3u8
-CCTV-10 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/11/index.m3u8
+CCTV-10 (576i),https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
@@ -738,7 +738,7 @@ CCTV-6 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/7/index.m3u8
 CCTV-7 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/8/index.m3u8
 CCTV-8 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/9/index.m3u8
 CCTV-9 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/10/index.m3u8
-CCTV-10 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/11/index.m3u8
+CCTV-10 (576i),https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11 (576p) [Geo-blocked],http://123.175.209.52:9003/hls/12/index.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
@@ -776,7 +776,7 @@ CCTV-6 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/7/index.m3u8
 CCTV-7 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/8/index.m3u8
 CCTV-8 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/9/index.m3u8
 CCTV-9 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/10/index.m3u8
-CCTV-10 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/11/index.m3u8
+CCTV-10 (576i),https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11 (576p) [Geo-blocked],http://123.175.209.52:9003/hls/12/index.m3u8
 CCTV-12 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/13/index.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
@@ -815,7 +815,7 @@ CCTV-6 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/7/index.m3u8
 CCTV-7 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/8/index.m3u8
 CCTV-8 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/9/index.m3u8
 CCTV-9 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/10/index.m3u8
-CCTV-10 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/11/index.m3u8
+CCTV-10 (576i),https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11 (576p) [Geo-blocked],http://123.175.209.52:9003/hls/12/index.m3u8
 CCTV-12 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/13/index.m3u8
 CCTV-13新闻 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/14/index.m3u8
@@ -855,7 +855,7 @@ CCTV-6 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/7/index.m3u8
 CCTV-7 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/8/index.m3u8
 CCTV-8 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/9/index.m3u8
 CCTV-9 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/10/index.m3u8
-CCTV-10 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/11/index.m3u8
+CCTV-10 (576i),https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11 (576p) [Geo-blocked],http://123.175.209.52:9003/hls/12/index.m3u8
 CCTV-12 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/13/index.m3u8
 CCTV-13新闻 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/14/index.m3u8
@@ -896,7 +896,7 @@ CCTV-6 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/7/index.m3u8
 CCTV-7 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/8/index.m3u8
 CCTV-8 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/9/index.m3u8
 CCTV-9 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/10/index.m3u8
-CCTV-10 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/11/index.m3u8
+CCTV-10 (576i),https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11 (576p) [Geo-blocked],http://123.175.209.52:9003/hls/12/index.m3u8
 CCTV-12 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/13/index.m3u8
 CCTV-13新闻 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/14/index.m3u8
