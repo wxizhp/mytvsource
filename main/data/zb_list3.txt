@@ -901,4 +901,4 @@ CCTV-11 (576p) [Geo-blocked],http://123.175.209.52:9003/hls/12/index.m3u8
 CCTV-12 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/13/index.m3u8
 CCTV-13新闻 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/14/index.m3u8
 CCTV-15 (576p),http://123.175.209.52:9003/hls/16/index.m3u8
-CCTV-16 (2160p) [Geo-blocked],http://123.175.209.52:9003/hls/17/index.m3u8
+CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
