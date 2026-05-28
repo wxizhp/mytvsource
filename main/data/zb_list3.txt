@@ -323,6 +323,32 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
@@ -348,6 +374,7 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
@@ -374,6 +401,7 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
@@ -401,6 +429,7 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
@@ -429,10 +458,42 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
@@ -458,10 +519,12 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
@@ -488,10 +551,12 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
@@ -519,10 +584,12 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
@@ -551,14 +618,52 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
@@ -584,14 +689,17 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
@@ -618,14 +726,17 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
@@ -653,14 +764,17 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
@@ -689,14 +803,17 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
@@ -726,14 +843,17 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
@@ -764,14 +884,17 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
@@ -803,14 +926,17 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
@@ -843,14 +969,17 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
@@ -884,14 +1013,17 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
@@ -926,14 +1058,17 @@ CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/i
 CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
@@ -945,3 +1080,633 @@ CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
 CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV-Health (1080p),http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV-Health (1080p),http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV-Nostalgia Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV-Health (1080p),http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV-Nostalgia Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV-Storm Football (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV-Health (1080p),http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV-Nostalgia Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV-Storm Football (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+CCTV-Storm Music (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV-Health (1080p),http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV-Nostalgia Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV-Storm Football (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+CCTV-Storm Music (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+CCTV-Storm Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV-Health (1080p),http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV-Nostalgia Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV-Storm Football (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+CCTV-Storm Music (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+CCTV-Storm Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+CCTV-The First Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV-Health (1080p),http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV-Nostalgia Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV-Storm Football (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+CCTV-Storm Music (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+CCTV-Storm Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+CCTV-The First Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV-Weapon & Technology (1080p),http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2财经 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3综艺 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4中文国际 (540p),http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-4中文国际 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
+CCTV-4中文国际 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/CCTV-4/CCTV-4
+CCTV-4中文国际 (1080p),http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-4中文国际 (1080p) [Not 24/7],http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+CCTV-5+体育赛事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6电影 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7国防军事 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8电视剧 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9纪录 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10科教 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11戏曲 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12社会与法制 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13新闻 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17农业农村 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-女性时尚 (576p),http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+CCTV-老故事 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
+CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV-Health (1080p),http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV-Nostalgia Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV-Storm Football (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+CCTV-Storm Music (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+CCTV-Storm Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+CCTV-The First Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV-Weapon & Technology (1080p),http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+CCTV-Women's Fashion (1080p),http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
