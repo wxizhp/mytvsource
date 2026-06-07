@@ -64,7 +64,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
@@ -75,7 +75,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
@@ -87,7 +87,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
@@ -100,7 +100,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -114,7 +114,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -129,7 +129,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -145,7 +145,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -162,7 +162,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -180,7 +180,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -199,7 +199,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -219,7 +219,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -240,7 +240,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -262,7 +262,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -285,7 +285,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -309,7 +309,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -334,7 +334,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -360,7 +360,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -387,7 +387,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -415,7 +415,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -444,7 +444,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -474,7 +474,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -505,7 +505,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -537,7 +537,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -570,7 +570,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -604,7 +604,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -639,7 +639,7 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5 (720p),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
 CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
