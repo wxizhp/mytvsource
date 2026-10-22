@@ -298,7 +298,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -322,7 +322,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
@@ -347,7 +347,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 HD (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
@@ -373,7 +373,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 HD (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -400,7 +400,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 HD (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -428,7 +428,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 HD (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -457,7 +457,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 HD (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -487,7 +487,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 HD (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -518,7 +518,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 HD (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -550,7 +550,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 HD (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -583,7 +583,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 HD (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -617,7 +617,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 HD (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -652,7 +652,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 HD (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -688,7 +688,7 @@ CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
 CCTV-14 HD (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 HD (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
